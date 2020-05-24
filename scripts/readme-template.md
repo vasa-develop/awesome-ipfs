@@ -6,11 +6,12 @@
 
 > Useful resources for using [IPFS](https://ipfs.io) and building things on top of it
 
-_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or [ipfs/notes](https://github.com/ipfs/notes)._
+_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.io)._
 
 ## Table of Contents
 
 - [Contribute](#contribute-to-this-list)
+- [Collab-Cluster](#collab-cluster)
 #PLACEHOLDER_TOC#
 - [Discussions](#discussions)
 - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
@@ -22,6 +23,9 @@ Everyone is welcome to submit their new awesome-ipfs item, but it will be accept
 
 Readme and the website are automatically generated. In order to add an element to this list, you need to modify the files in `/data` and then run  `make build` before publishing your pull request. Read [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
 
+## Collab-Cluster
+
+[Collaborative clusters](https://collab.ipfscluster.io/) are public IPFS Clusters that anyone can join to help replicating and re-distributing content on the IPFS network. Instead of datasets cluster content is usually updated.
 
 #PLACEHOLDER_CATEGORIES#
 
